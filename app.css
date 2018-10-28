@@ -56,6 +56,14 @@ h2 {
     background-color: #d32f2f;
 }
 
+#newyork {
+    background-color: #566502;
+}
+
+#havana {
+    background-color: #63007b;
+}
+
 .destination:hover h2 {
     transform: rotate(0deg);
 }
